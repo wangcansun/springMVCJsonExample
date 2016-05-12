@@ -1,0 +1,7 @@
+#spring mvc example
+/target
+/target/**
+/out
+/out/**
+/.idea
+/.idea/**
